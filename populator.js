@@ -1,12 +1,6 @@
 /*
  * DATE: MARCH 30, 2018.
  * 
- * GROUP MEMBERS:
- * 
- * OTTOR MILLS      620098373
- * KHADEJA CLARKE   620098443
- * BRITTANY THOMAS  620087337
- * SCOTT ALLEN      620098443
  * */
  
 var request = require("request");
